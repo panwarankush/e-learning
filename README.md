@@ -1,2 +1,2 @@
 # e-learning
-LMS
+Learning Management System
